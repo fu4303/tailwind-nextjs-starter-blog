@@ -19,7 +19,7 @@ export default function Projects() {
             Doodles
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            A showcase of my attempts at doodling
+            A showcase of my attempts at doodling &rarr
           </p>
         </div>
         <div className="container py-12">
