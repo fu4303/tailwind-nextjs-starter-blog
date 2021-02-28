@@ -15,6 +15,12 @@ const projectsData = [
     imgSrc: '/static/images/time-machine.jpg',
     href: '/blog/the-time-machine',
   },
+  {
+    title: 'Simon Says',
+    description: `Just a simple PWA game of the hit simon says.`,
+    imgSrc: '/static/images/simonsays.png',
+    href: '/blog/the-time-machine',
+  },
 ]
 
 export default projectsData
